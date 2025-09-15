@@ -1,1 +1,1 @@
-# focus-hub
+# Focus Hub
