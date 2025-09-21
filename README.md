@@ -63,3 +63,7 @@ Esteban Massa       - Presenter
 ### 3.1. Value Proposition Canvas
 
 ![Value Proposition Canvas](./assets/value-prop-canvas.png)
+
+### 3.3. Benchmarking
+
+![Benchmarking](./assets/benchmarking.png)
