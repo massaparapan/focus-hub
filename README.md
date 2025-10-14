@@ -78,4 +78,4 @@ Esteban Massa       - Presenter
 
 ## 6. Strategy
 
-### ![Low-Fi Wireframes](./docs/wireframes.pdf)
+### 6.1. ![Low-Fi Wireframes](./docs/wireframes.pdf)
