@@ -64,6 +64,14 @@ Esteban Massa       - Presenter
 
 ![Value Proposition Canvas](./assets/value-prop-canvas.png)
 
+### 3.2. UX Personas
+
+![Valentina](./assets/valentina-ux-persona.png)
+
+![Sebastian](./assets/sebastian-ux-persona.png)
+
+![Martina](./assets/martina-ux-persona.png)
+
 ### 3.3. Benchmarking
 
 ![Benchmarking](./assets/benchmarking.png)
