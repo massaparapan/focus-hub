@@ -75,3 +75,9 @@ Esteban Massa       - Presenter
 ### 3.3. Benchmarking
 
 ![Benchmarking](./assets/benchmarking.png)
+
+## 6. Strategy
+
+### 6.1. Low-Fi Wireframes
+
+![Wireframes](./docs/wireframes.pdf)
