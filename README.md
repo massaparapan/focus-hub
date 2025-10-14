@@ -76,6 +76,12 @@ Esteban Massa       - Presenter
 
 ![Benchmarking](./assets/benchmarking.png)
 
+## 5. Stucture
+
+### 5.1. Navigation Flow
+
+![Navigation Flow](./assets/navigation-flow.png)
+
 ## 6. Strategy
 
 ### 6.1. ![Low-Fi Wireframes](./docs/wireframes.pdf)
