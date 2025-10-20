@@ -85,8 +85,8 @@ Esteban Massa       - Presenter
 
 ## 6. Strategy
 
-### 6.1. ![Low-Fi Wireframes](./docs/wireframes.pdf)
+### 6.1. [Low-Fi Wireframes](./docs/wireframes.pdf)
 
 ## 7. Surface
 
-### 7.1. ![High Definition Interfaces](./docs/Mockups.pdf)
+### 7.1. [High Definition Interfaces](./docs/Mockups.pdf)
