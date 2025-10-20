@@ -20,9 +20,9 @@ An application that helps university students manage their habits, tasks, and we
 - [6. Skeleton](#6-skeleton)
   - [6.1. Low-Fi Wireframes](#62-low-fi-wireframes)
 - [7. Surface](#z7-surface)
-  - [7.3. High Definition Interfaces](#71-high-definition-interfaces)
-  - [7.1. Interface Evolution](#72-ui-evolution)
-  - [7.2. Results of the Heuristic Evaluation](#73-results-of-the-heuristic-evaluation)
+  - [7.1. High Definition Interfaces](#71-high-definition-interfaces)
+  - [7.2. Interface Evolution](#72-ui-evolution)
+  - [7.3. Results of the Heuristic Evaluation](#73-results-of-the-heuristic-evaluation)
   
 
 ---
