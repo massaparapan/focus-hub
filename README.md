@@ -20,9 +20,10 @@ An application that helps university students manage their habits, tasks, and we
 - [6. Skeleton](#6-skeleton)
   - [6.1. Low-Fi Wireframes](#62-low-fi-wireframes)
 - [7. Surface](#z7-surface)
-  - [7.1. Interface Evolution](#71-ui-evolution)
-  - [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
-  - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
+  - [7.3. High Definition Interfaces](#71-high-definition-interfaces)
+  - [7.1. Interface Evolution](#72-ui-evolution)
+  - [7.2. Results of the Heuristic Evaluation](#73-results-of-the-heuristic-evaluation)
+  
 
 ---
 
@@ -85,3 +86,7 @@ Esteban Massa       - Presenter
 ## 6. Strategy
 
 ### 6.1. ![Low-Fi Wireframes](./docs/wireframes.pdf)
+
+## 7. Surface
+
+### 7.1. ![High Definition Interfaces](./docs/Mockups.pdf)
