@@ -76,7 +76,7 @@ Esteban Massa       - Presenter
 
 ![Benchmarking](./assets/benchmarking.png)
 
-## 5. Stucture
+## 5. Structure
 
 ### 5.1. Navigation Flow
 
