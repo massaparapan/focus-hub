@@ -89,4 +89,4 @@ Esteban Massa       - Presenter
 
 ## 7. Surface
 
-### 7.1. [High Definition Interfaces](./docs/Mockups.pdf)
+### 7.1. [High Definition Interfaces](./docs/mockups.pdf)
