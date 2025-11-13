@@ -1,4 +1,4 @@
-# Focus Hub
+# Focushub
 
 An application that helps university students manage their habits, tasks, and well-being with features like Pomodoro, reminders, and progress tracking, focusing on simplicity and motivation.
 
