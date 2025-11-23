@@ -81,7 +81,7 @@ Esteban Massa       - Presenter
 
 ### 4.1 Customer Journey Map
 
-![Customer Journey](./assets/customer-journey)
+![Customer Journey](./assets/customer-journey.png)
 
 ## 5. Structure
 
