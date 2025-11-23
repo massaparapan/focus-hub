@@ -97,4 +97,4 @@ Esteban Massa       - Presenter
 
 ### 7.1. [High Definition Interfaces](./docs/mockups.pdf)
 
-## [8. Figma Prototype](https://www.figma.com/design/XN7CBXGjTrbSywQIV6ykpx/Focus-Hub?node-id=172-1166&t=QcaNPpDXDcgA8fUV-1)
+## 8. [Figma Prototype](https://www.figma.com/design/XN7CBXGjTrbSywQIV6ykpx/Focus-Hub?node-id=172-1166&t=QcaNPpDXDcgA8fUV-1)
