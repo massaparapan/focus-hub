@@ -23,7 +23,7 @@ An application that helps university students manage their habits, tasks, and we
   - [7.1. High Definition Interfaces](#71-high-definition-interfaces)
   - [7.2. Interface Evolution](#72-ui-evolution)
   - [7.3. Results of the Heuristic Evaluation](#73-results-of-the-heuristic-evaluation)
-  
+- [8. Figma Prototype](#8-figma-prototype)
 
 ---
 
@@ -77,6 +77,12 @@ Esteban Massa       - Presenter
 
 ![Benchmarking](./assets/benchmarking.png)
 
+## 4. Scope
+
+### 4.1 Customer Journey Map
+
+![Customer Journey](./assets/customer-journey)
+
 ## 5. Structure
 
 ### 5.1. Navigation Flow
@@ -90,3 +96,6 @@ Esteban Massa       - Presenter
 ## 7. Surface
 
 ### 7.1. [High Definition Interfaces](./docs/mockups.pdf)
+
+## 8. Figma Prototype
+[View Figma Prototype](https://www.figma.com/design/XN7CBXGjTrbSywQIV6ykpx/Focus-Hub?node-id=172-1166&t=QcaNPpDXDcgA8fUV-1)
