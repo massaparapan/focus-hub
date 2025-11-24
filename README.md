@@ -97,7 +97,7 @@ Esteban Massa       - Presenter
 
 ### 7.1. [High Definition Interfaces](./docs/mockups.pdf)
 
-### 7.2 [Interface Evolution] (./docs/Evolution-Interface.pdf)
+### 7.2 [Interface Evolution](./docs/Evolution-Interface.pdf)
 
 ### 7.3. [Results of the Heuristic Evaluation](./docs/heuristic-evaluation-results.pdf)
 
